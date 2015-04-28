@@ -3,6 +3,10 @@ from bs4 import BeautifulSoup
 
 
 
+
+
+
+
 def matchSpider(maxPages):
     page = 1
     while page <= maxPages:
